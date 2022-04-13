@@ -33,8 +33,12 @@ The major key point of data analysis from the PowerCo, Inc and its Churn forecas
 ## The Model
 Due the similarity of pattern between the segments the best choice was to build a statistical model to detect the slightly trends.
 the result was:
--
+- 103 likely churn people from current clients.
 
 ## The Recommendation
-- 
-- 
+The data showed that churn people were paying above the mean per client. Even though the churning reason was pointed to price, the machine considered consumption an important feature and as it was not computed, the main factor to build a pattern is non-understandable, however their little trends were statistically applied and 103 current clients showed the same behaviour as churn people.
+The solution of applying a discount is a good aproach but as we saw early the price is highly above the estimated value so there are some things to consider before applying a discount:
+- More Quality of Service
+- Build a relationship with customers
+- Priorize customers in specific geo areas - segmentation
+- Record consumption behaviour
