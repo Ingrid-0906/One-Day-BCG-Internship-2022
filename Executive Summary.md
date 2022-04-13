@@ -13,7 +13,7 @@ The Hypothesis, for those customers that are at risk of churning, a discount (20
 - The majority were paying between 0 and 75 suming up net margin and impost.
 
 ## The Price
-- The average of Price Off Peak Var is $ ~0.1418, the differences between the average is more of 0.42% to churn people.
+- The average of Price Off Peak Fix is $ ~0.1418, the differences between the average is more of 0.42% to churn people.
 - The average of Price Off Peak Var is $ ~43.16, the differences represents more of 0.39% to churn people.
 1. Price Off Peak:
     - The mean churn price was ~49% below the mean price per client ($0.1423), and ~52% of churn people were paying for this Peak Fix.
