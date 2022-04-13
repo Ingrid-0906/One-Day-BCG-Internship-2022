@@ -28,7 +28,7 @@ The Hypothesis, for those customers that are at risk of churning, a discount (20
 - The churn people came from the average of data.
 - The company has ~8% of people with ~4 years of contract and ~10,8 with 7 years. Together they are more than churn rate.
 - Even though the difference of prices, the average is the same for both segments.
-- ~43% for Price Peak Var and ~60% of current clients are paying $0.00 for Price Peak Fix. Similar rate presented in churn people.
+- ~43% for Price Peak Var and ~60% of current clients are paying $0.00 for Price Peak Fix. Similar rate was presented in churn people.
 
 
 ## The Model
