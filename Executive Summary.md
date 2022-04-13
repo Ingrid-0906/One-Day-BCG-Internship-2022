@@ -1,7 +1,8 @@
 # Executive Summary
-### Apr, 13, 2022
+#### Apr, 13, 2022
 
-The major key point of data analysis from the PowerCo, Inc and its Churn forecast project.
+The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment.
+The Hypothesis, for those customers that are at risk of churning, a discount (20%) might incentivize them to stay with our client, especially those for whom price is the primary concern.
 
 ## The Churn rate
 - Churn people represents 10% of data. (n = 14606)
