@@ -12,8 +12,8 @@ The major key point of data analysis from the PowerCo, Inc and its Churn forecas
 - The majority were paying between 0 and 75 suming up net margin and impost.
 
 ## The Price
-- The average of Price Off Peak Var is $ ~0.1418, the differences between the client's average is 0.42%.
-- The average of Price Off Peak Var is $ ~43.16, the differences represents 0.39%.
+- The average of Price Off Peak Var is $ ~0.1418, the differences between the average is more of 0.42% to churn people.
+- The average of Price Off Peak Var is $ ~43.16, the differences represents more of 0.39% to churn people.
 1. Price Off Peak:
     - The mean churn price was ~49% below the mean price per client ($0.1423), and ~52% of churn people were paying for this Peak Fix.
     - The mean churn price was ~60% above the mean price per client ($42.92), and ~56% of churn people were paying for this Peak Var.
